@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-21T05:50:16.965Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="Xl3yuFamhhRqaf8cnz9J" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-21T06:09:19.660Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="ijxBkATJj4VqTdmpKmxo" version="14.6.13" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="723" dy="1523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -410,8 +410,8 @@
         <mxCell id="ROmW0AR0UzoBgdKp0q-v-103" value="기사의 뉴스레터화()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="440" y="-123" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="ROmW0AR0UzoBgdKp0q-v-104" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="716" y="101" width="20" height="20" as="geometry" />
+        <mxCell id="ROmW0AR0UzoBgdKp0q-v-104" value="0..*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="711" y="101" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
