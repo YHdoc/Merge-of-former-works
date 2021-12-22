@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-22T08:55:47.385Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="rIbVDCToACBSwVnOiEpn" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-22T08:56:05.274Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="YErACe-iGlJamz_FwmzO" version="14.6.13" type="github">
   <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
     <mxGraphModel dx="1021" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -70,7 +70,7 @@
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Wzl3ZhZQnECG-cAmuOxG-24" value="«데이터베이스»&lt;br&gt;&lt;b&gt;회원 명단&lt;/b&gt;" style="html=1;dropTarget=0;" vertex="1" parent="1">
+        <mxCell id="Wzl3ZhZQnECG-cAmuOxG-24" value="«데이터베이스»&lt;br&gt;&lt;b&gt;사용자 명단&lt;/b&gt;" style="html=1;dropTarget=0;" vertex="1" parent="1">
           <mxGeometry x="370" y="280" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Wzl3ZhZQnECG-cAmuOxG-25" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="Wzl3ZhZQnECG-cAmuOxG-24">
