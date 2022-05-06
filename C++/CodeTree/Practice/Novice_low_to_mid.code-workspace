@@ -1,0 +1,56 @@
+/*Novice_low 중
+다중반복문 - 행에 대해 대칭인 별 출력
+
+아래와 같이 중간 행에 대해 대칭인 모양의 별표를 그리는 프로그램은 어떻게 작성할 수 있을까요?
+***
+**
+*
+**
+***
+*/
+
+#include<cstdio>
+#include<iostream>
+using namespace std;
+int main()
+{
+    for (int i=1; i<=3; i++){
+        for(int j=3; j>0; j-=i){
+            cout<<"* ";
+        }
+        cout << endl;
+    }
+    for (int i=1; i>-1; i--){
+        for(int j=0; j<3-i; j++){
+            cout<<"* ";
+        }
+        cout << endl;
+    }
+    return 0;
+}
+
+
+// #include<cstdio>
+// #include<iostream>
+// using namespace std;
+// int main()
+// {
+//     int n;
+//     cin >> n;
+//     for (int i=1; i<=n; i++){
+//         for (int j=0; j<i; j++){
+//             cout << "* ";
+//         }
+//         cout << endl;
+//     }
+//     for (int i=1; i<=n; i++){
+//         for (int j=n-i; j>0; j--){
+//             cout << "* ";
+//         }
+//         cout << endl;
+//     }
+//     return 0;
+// }
+
+
+
